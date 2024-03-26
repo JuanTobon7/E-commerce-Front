@@ -4,7 +4,7 @@ const FormData = require('form-data');
 const services = require('../services/Api.js');
 
 const conn = axios.create({
-  baseURL: process.env.API_HOST,
+  baseURL: 'http://localhost:3001',
   maxContentLength: 25000000,
   maxBodyLength: 25000000
 });

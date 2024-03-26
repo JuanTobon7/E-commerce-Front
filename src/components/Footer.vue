@@ -1,8 +1,8 @@
 <template>
     <footer class="flex sm:h-auto p-3 bg-gradient-to-br from-primary-500 to-primary-400">
-        <section class="ctn w-full md:h-40 py-">
+        <section class="ctn w-full md:h-45 py-2">
             <div class="flex flex-col items-center">
-                <img src="https://i.imgur.com/Eaool5E.png" alt="Escudo teresita vidal" class="object-center hover:cursor-pointer max-w-[270px] m-4"> 
+                <img src="https://t3.ftcdn.net/jpg/03/97/29/08/360_F_397290802_JzNWNjQOvVQbnRXb6Domtjro0JreCUbM.jpg" alt="Escudo teresita vidal" class="object-center hover:cursor-pointer max-w-[200px] m-4 rounded-md"> 
             </div>
             <div class="card">
                 <h2>Siguenos</h2>
