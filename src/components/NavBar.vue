@@ -38,14 +38,7 @@ import { RouterLink } from 'vue-router';
       return {
         menu:[
           {name:'TheHome', label:'Home',path: '/'},
-          {name:'feed', label:'Nuestros Enfoques',path: '/',items:[
-            {name:'feed',label:'Ambiental',path:'/',op:true},
-            {name:'feed',label:'Robotico',path:'/',op:true},
-            {name:'feed',label:'Ludico',path:'/',op: true},
-            {name:'feed',label:'Vision',path:'/',op: true},
-          ]},
-          {name:'feed', label:'Actividades y Cronograma',path: '/actividades'},
-          {name:'AboutMe', label:'Quienes Somos',path: '/nosotros'},
+         
         ]
        
         }
